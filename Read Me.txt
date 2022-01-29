@@ -1,0 +1,29 @@
+Designed by: Jatin Sharma.
+
+Code is provided in ".cpp" format and PDF format as well.
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+            -:  POLYNOMIAL EQUATION SOLUTION  :-
+
+Basic working: This program gives you two values which gives
+               negetive and positive value when putted in
+               equation, this program is designed to take the
+               equation as input(Polynomial Equation only).
+
+Inputs: -> The number of times you want to run the code.
+        -> The degree of equation(Highest power of the equation).
+        -> You will be asked to enter the Coefficients of each 
+           term according to the provided degree.
+
+Output: -> You will get those 2 values from equation 
+           (Stated above).
+
+ _______________________________________________________________
+| NOTE: There are various printf statements in the code you can |
+|       uncomment them to see every step.                       |
+|_______________________________________________________________|
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
